@@ -204,10 +204,10 @@ class App {
             <div class="toolbar">
               <img class="toolbar-color" data-id=${
                 note.id
-              } src="https://icon.now.sh/palette">
+              } src="https://img.icons8.com/ios-filled/50/000000/color-palette.png">
               <img data-id=${
                 note.id
-              } class="toolbar-delete" src="https://icon.now.sh/delete">
+              } class="toolbar-delete" src="https://img.icons8.com/ios-filled/50/000000/trash.png">
             </div>
           </div>
         </div>
